@@ -5,7 +5,7 @@ but it should work with manual change spindles) PCB mill. That's the
 version with the DB-25 and male/female DB-15's. It's intended to be used
 with a [GRBL](https://github.com/gnea/grbl/wiki) controller of some sort.
 
-![Model](Images/bunGrbl-breakout.png)
+![Model](Images/bunGrbl-Breakout.png)
 
 At the moment I'm running my machine with a custom ATMega328P GRBL
 controller (Uno/Nano equivalent), DM542 stepper drivers, a JYQD-V8.5E bldc
